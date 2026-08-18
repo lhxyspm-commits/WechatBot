@@ -1,0 +1,4 @@
+google-genai
+wxauto4
+pywin32
+pillow
